@@ -1,0 +1,11 @@
+C:\Users\Guadalupe\source\repos\Lab 6\obj\Debug\netcoreapp2.1\Lab 6.csprojAssemblyReference.cache
+C:\Users\Guadalupe\source\repos\Lab 6\obj\Debug\netcoreapp2.1\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Guadalupe\source\repos\Lab 6\obj\Debug\netcoreapp2.1\Lab 6.AssemblyInfoInputs.cache
+C:\Users\Guadalupe\source\repos\Lab 6\obj\Debug\netcoreapp2.1\Lab 6.AssemblyInfo.cs
+C:\Users\Guadalupe\source\repos\Lab 6\bin\Debug\netcoreapp2.1\Lab 6.deps.json
+C:\Users\Guadalupe\source\repos\Lab 6\bin\Debug\netcoreapp2.1\Lab 6.runtimeconfig.json
+C:\Users\Guadalupe\source\repos\Lab 6\bin\Debug\netcoreapp2.1\Lab 6.runtimeconfig.dev.json
+C:\Users\Guadalupe\source\repos\Lab 6\bin\Debug\netcoreapp2.1\Lab 6.dll
+C:\Users\Guadalupe\source\repos\Lab 6\bin\Debug\netcoreapp2.1\Lab 6.pdb
+C:\Users\Guadalupe\source\repos\Lab 6\obj\Debug\netcoreapp2.1\Lab 6.dll
+C:\Users\Guadalupe\source\repos\Lab 6\obj\Debug\netcoreapp2.1\Lab 6.pdb
