@@ -56,7 +56,7 @@ namespace Lab_6
         public static int GetRandom(int dieSides)
         {
             Random rand = new Random();
-            return rand.Next(1, dieSides);
+            return rand.Next(1, dieSides+1);
         }
         
     }
